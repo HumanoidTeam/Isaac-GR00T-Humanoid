@@ -22,7 +22,7 @@ class EmbodimentTag(Enum):
     The GR1 dataset.
     """
 
-    NEW_EMBODIMENT = "new_embodiment"
+    PA = "prealpha"
     """
-    Any new embodiment for finetuning.
+    Rainbow pre alpha dataset.
     """
